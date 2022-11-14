@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">ConstraintLayout2</string>
+    <string name="app_name">LinearLayout2</string>
+    <string name="Asunto">Asunto</string>
+    <string name="Contenido">Contenido</string>
+    <string name="Fecha">Fecha</string>
+    <string name="Estrellita">Estrellita</string>
 </resources>
